@@ -15,9 +15,11 @@ from pathlib import Path
 
 ENTRY = (
     "There is a small blue door at the end of this sentence. "
-    "Behind it, a room you have never entered, with a letter on the table "
-    "addressed to you, in your own handwriting. "
-    "You have not written it yet."
+    "Behind it, a room you have never entered. "
+    "On the table, a letter addressed to you, in your own handwriting, "
+    "dated tomorrow. "
+    "You have not written it yet. "
+    "It begins with the word you were about to think."
 )
 
 
